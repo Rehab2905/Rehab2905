@@ -135,4 +135,14 @@ I believe that continuous learning, collaboration, and building real projects ar
 
 ---
 
-### ✨ Always Learning • Always Building • Always Improving 🚀
+## ✨ A Little More About Me
+
+💡 I believe that the best way to learn technology is by building real projects.
+
+🚀 I'm continuously improving my development skills and looking for opportunities to learn, collaborate, and create impactful solutions.
+
+---
+
+⭐ Thanks for visiting my profile!
+
+### Always Learning • Always Building • Always Improving 🚀
