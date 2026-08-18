@@ -1,25 +1,25 @@
-# Hi 👋 I'm Rehab
+# 👋 Hi, I'm Rehab Adel
 
-### 💻 IT Student | Frontend Developer | Software Engineer
+### 👩‍💻 IT Student | Aspiring Software Engineer | Frontend & Full-Stack Developer
 
-I'm an Information Technology student passionate about Software Development, Web Development, and AI. I enjoy turning ideas into useful, modern web applications and continuously building my technical skills through projects and hands-on learning.
+I'm an Information Technology student passionate about **Software Development, Web Development, and AI**. I enjoy building practical projects, learning modern technologies, and turning ideas into useful digital solutions.
 
 ---
 
-## 👩‍💻 About Me
+## 🎓 About Me
 
-- 🎓 IT Student — Information Technology
-- 💻 Interested in Software Engineering & Full-Stack Development
-- 🌐 Frontend Web Development enthusiast
+- 🎓 Information Technology Student
+- 💻 Aspiring Software Engineer
+- 🌐 Interested in Frontend & Full-Stack Development
 - ⚛️ Building with React and modern JavaScript
-- 🤖 Exploring AI and AI-powered applications
-- 🚀 Always learning, building, and improving
+- 🤖 Exploring AI-powered applications
+- 🚀 Learning through hands-on projects and continuous practice
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,11 +47,19 @@ I'm an Information Technology student passionate about Software Development, Web
 
 ## 🚀 Featured Projects
 
-### 🏫 IoT Smart Classroom Management System
+### 🏫 Smart Classroom Management System
 
-An IoT project built using Arduino with a Proteus simulation, designed to demonstrate smart classroom management and automation.
+An IoT-based smart classroom project developed using **Arduino and Proteus** as a first-year final project.
 
-Technologies: Arduino • C/C++ • Proteus
+**Technologies:** Arduino • C/C++ • Proteus
+
+**Features:**
+- 👥 Student occupancy monitoring
+- 💡 Automatic lighting based on ambient light
+- 🔢 7-segment student counter
+- 🚨 Classroom capacity indicator
+
+🔗 [View Project](https://github.com/Rehab2905/Smart-Classroom-Management-System-)
 
 ---
 
@@ -59,49 +67,40 @@ Technologies: Arduino • C/C++ • Proteus
 
 A modern and responsive restaurant website focused on clean UI, usability, and responsive design.
 
-Technologies: React • JavaScript • CSS • HTML
+**Technologies:** React • JavaScript • HTML • CSS
 
 ---
 
 ### 🤖 FocusFlow AI
 
-A productivity platform concept that combines:
+A productivity platform concept designed to help users manage tasks and improve productivity.
 
+**Features:**
 - 📋 Task Management
 - ⏱️ Pomodoro Timer
 - 😊 Mood Tracker
 - 🤖 AI Assistant
 - 📊 Productivity Dashboard
 
-Technologies: React • Next.js • TypeScript • Tailwind CSS • AI
+**Technologies:** React • Next.js • TypeScript • Tailwind CSS • AI
 
 ---
 
 ### 🎓 Student Life Ecosystem
 
-A student-focused platform concept designed to help students organize their academic and everyday life while connecting useful services and opportunities in one place.
+A student-focused platform concept designed to help students organize their academic life, discover opportunities, and access useful services in one place.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Programs & Certifications
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rehab2905&show_icons=true&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehab2905&layout=compact&hide_border=true" height="165"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rehab2905&hide_border=true" />
-
-</p>
+- 🐍 Cisco — Python Essentials
+- 🤖 Huawei — HCIA AI
+- 🤖 Cisco — Introduction to Modern AI
+- 💻 Microsoft — Python Course
+- 🌐 Pioneers in AI — Frontend Web Development
+- 📊 Microsoft Office 365
+- 📚 DataCamp Scholarship
 
 ---
 
@@ -116,34 +115,24 @@ A student-focused platform concept designed to help students organize their acad
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Beyond Coding
 
-<p align="left">
+I'm also interested in **community activities, volunteering, youth initiatives, and technology programs** that help me grow both technically and professionally.
+
+I believe that continuous learning, collaboration, and building real projects are the best ways to grow as a developer.
+
+---
+
+## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/rehab-adel/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rehab%20Adel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:Rehabadel290502006@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:rehabadel2905@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="https://github.com/Rehab2905">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
-## ✨ A Little More About Me
-
-💡 I believe that the best way to learn technology is by building real projects.
-
-🚀 I'm continuously improving my development skills and looking for opportunities to learn, collaborate, and create impactful solutions.
-
----
-
-⭐ Thanks for visiting my profile!
-
-### Always Learning • Always Building • Always Improving 🚀
+### ✨ Always Learning • Always Building • Always Improving 🚀
