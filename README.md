@@ -127,9 +127,17 @@ I believe that continuous learning, collaboration, and building real projects ar
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/rehab-adel/"> <img src="https://img.shields.io/badge/LinkedIn-Rehab%20Adel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/rehab-adel/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="mailto:rehabadel2905@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:Rehabadel290502006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rehab2905">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
