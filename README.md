@@ -63,32 +63,62 @@ An IoT-based smart classroom project developed using **Arduino and Proteus** as 
 
 ---
 
-### 🍽️ Restaurant Website
+### 🍔 BUNDA — Burger Restaurant Website
 
-A modern and responsive restaurant website focused on clean UI, usability, and responsive design.
+A modern Egyptian-inspired burger restaurant website built as a complete Front-End project.  
+Features dynamic product browsing, burger customization, price calculation, shopping cart functionality, LocalStorage, offers, testimonials, and responsive design.
 
-**Technologies:** React • JavaScript • HTML • CSS
+**Tech Stack:** HTML5 · CSS3 · JavaScript · LocalStorage · CSS Grid · Flexbox
 
----
+🔗 **Live Demo:** https://rehab2905.github.io/Bunda-Restaurant/  
+💻 **GitHub:** https://github.com/Rehab2905/Bunda-Restaurant/
 
-### 🤖 FocusFlow AI
-
-A productivity platform concept designed to help users manage tasks and improve productivity.
-
-**Features:**
-- 📋 Task Management
-- ⏱️ Pomodoro Timer
-- 😊 Mood Tracker
-- 🤖 AI Assistant
-- 📊 Productivity Dashboard
-
-**Technologies:** React • Next.js • TypeScript • Tailwind CSS • AI
 
 ---
 
-### 🎓 Student Life Ecosystem
+### 🍔 Burger House — Interactive Restaurant Website
+A modern responsive restaurant website with dynamic menu content and API integration.  
+The project includes search, category filtering, product details, load more functionality, special offers, statistics, gallery, testimonials, order form validation, animations, and API fallback handling.
 
-A student-focused platform concept designed to help students organize their academic life, discover opportunities, and access useful services in one place.
+**Tech Stack:** HTML5 · CSS3 · JavaScript · Bootstrap 5 · TheMealDB API · Font Awesome
+
+🔗 **Live Demo:** https://rehab2905.github.io/Burger-House-/  
+💻 **GitHub:** https://github.com/Rehab2905/Burger-House-
+
+
+---
+
+### 🏠 Sakany — Student Housing Platform
+A UI/UX project designed to help university students find safer, easier, and more trustworthy accommodation.
+
+The platform focuses on smart search, roommate matching, identity verification, trust scores, verified reviews, electronic contracts, post-rental services, and AI-powered recommendations.
+
+**Design Tools:** Figma · FigJam · UI/UX · User Research · Wireframing · Prototyping · AI
+
+🎨 **Figma UI/UX:**  
+https://www.figma.com/design/KyGYLIx7wYULwTbIoh6W1I/Sakany-Ui-Ux--Nti-Project?m=auto&t=pqTOU5lnNhFFcUHQ-6
+
+🧩 **FigJam:**  
+https://www.figma.com/board/SfMT5mmcRN7VhN2RPBMEw4/Draw-for-Sakany?t=pqTOU5lnNhFFcUHQ-6
+
+
+---
+
+### 🐾 Animal Adoption Platform
+A collaborative UI/UX project created to make animal adoption more accessible, organized, and user-friendly.
+
+The project explores animal discovery, pet profiles, adoption journeys, responsible adoption, and a friendly digital experience.
+
+**Design Tools:** Figma · FigJam · UI/UX · Prototyping · Canva · Team Collaboration
+
+🎨 **Figma Design:**  
+https://www.figma.com/design/6G1wcar1R4vsjkKf1Q015M/Team-Project?m=auto&t=pqTOU5lnNhFFcUHQ-6
+
+🧩 **FigJam:**  
+https://www.figma.com/board/BDbNXRpNTSbXrbIL9NYZMQ/TEAM-PROJECT?t=pqTOU5lnNhFFcUHQ-6
+
+📊 **Canva Presentation:**  
+https://canva.link/qkwe4y1m3v9h6fr
 
 ---
 
